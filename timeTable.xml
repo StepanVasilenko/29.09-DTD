@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE timeTable SYSTEM "timetable.dtd">
+<timeTable>
+    <complexes>
+        <complex code="it_1">
+            <name>Ц1</name>
+            <address>104</address>
+        </complex>
+        <complex code="it_1">
+            <name>Ц2</name>
+            <address>205.1</address>
+        </complex>
+    </complexes>
+    
+    <lessons>
+        <lesson no="1" complex="it_dev">
+            <date>29.09.26</date>
+            <time>11:10</time>
+        </lesson>
+        <lesson no="2" complex="it_net">
+            <date>29.09.26</date>
+            <time>12:50</time>
+        </lesson>
+    </lessons>
+</timeTable>
